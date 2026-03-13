@@ -1,0 +1,50 @@
+HONEYRICH LOGISTICS ANALYTICS
+DATA QUALITY REPORT – DAY 7
+==========================================
+
+Dataset Information
+-------------------
+Dataset Name: Honeyrich Supply Logs
+Total Records: 10257
+Total Columns: 8
+
+Missing Value Analysis
+----------------------
+A missing value audit was performed across all dataset columns.
+
+Missing Values by Column:
+batch_id: 0
+vendor_name: 0
+product_name: 0
+quantity: 0
+unit: 0
+cost_per_kg: 205
+defect_rate_pct: 0
+procurement_date: 0
+
+Action Taken
+------------
+The 205 missing cost_per_kg values were resolved using median imputation to maintain statistical integrity of the dataset.
+
+Outlier Detection
+-----------------
+The Interquartile Range (IQR) method was applied to detect abnormal procurement cost values.
+
+Results:
+Total Cost Outliers Detected: 217
+
+Outliers were retained in the dataset for further analytical review as they may represent legitimate premium product pricing or irregular procurement transactions.
+
+Visualization
+-------------
+A boxplot visualization was generated to analyze the distribution of cost_per_kg values and highlight extreme data points.
+
+Output Files Generated
+----------------------
+day7_clean_supply_data.csv
+cost_outliers_detected.csv
+cost_outlier_boxplot.png
+
+Status
+------
+Dataset quality validation completed and prepared for temporal normalization and time-based analytics in the next stage of the project.

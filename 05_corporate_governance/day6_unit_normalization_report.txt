@@ -1,0 +1,29 @@
+HONEYRICH LOGISTICS ANALYTICS
+DATA NORMALIZATION REPORT – DAY 6
+
+Dataset Records: 10,257
+
+Objective
+Standardize procurement measurement units and engineer derived procurement metrics to ensure consistency for downstream supplier analytics.
+
+Activities Performed
+• Validated procurement measurement units within the dataset.
+• Standardized the unit column to maintain consistent measurement representation.
+• Verified numeric data types for quantity and cost_per_kg fields.
+• Implemented feature engineering to compute total procurement cost for each shipment record.
+• Generated supplier shipment volume metrics to analyze procurement distribution across vendors.
+• Conducted distribution analysis on procurement quantity and cost attributes.
+
+Derived Metrics Created
+• total_procurement_cost = quantity × cost_per_kg
+• supplier shipment volume summary dataset
+
+Outputs Generated
+
+day6_unit_normalized_data.csv
+vendor_total_quantity.csv
+quantity_distribution.png
+cost_per_kg_distribution.png
+
+Result
+Procurement dataset has been standardized for unit consistency and enriched with derived procurement metrics. The dataset is now prepared for statistical data quality validation and anomaly detection in the next stage.

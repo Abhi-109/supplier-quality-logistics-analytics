@@ -1,0 +1,24 @@
+HONEYRICH LOGISTICS ANALYTICS
+TEMPORAL DATA PROCESSING REPORT – DAY 8
+
+Dataset Records: 10,257
+
+Data Validation
+The Procurement_Date column contained mixed date formats including ISO format (YYYY-MM-DD) and slash-based formats (DD/MM/YYYY and MM/DD/YYYY). This inconsistency caused parsing failures during datetime conversion.
+
+Activities Performed
+• Standardized the procurement_date column by applying mixed-format datetime parsing.
+• Validated and converted all procurement timestamps into pandas datetime format.
+• Generated temporal attributes including procurement year, month, day, and weekday.
+• Calculated monthly procurement volume metrics across suppliers.
+• Created supplier monthly activity dataset for time-based supplier analysis.
+• Generated visualization of monthly procurement trends.
+
+Outputs Generated
+day8_time_normalized_supply_data.csv
+monthly_procurement_volume.csv
+supplier_month_activity.csv
+monthly_procurement_trend.png
+
+Result
+The dataset has been successfully normalized for temporal analysis and is now ready for supplier quality analytics and logistics performance evaluatio

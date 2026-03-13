@@ -1,0 +1,6 @@
+HONEYRICH LOGISTICS DATA AUDIT - DAY 2
+======================================
+Total Records Audited: 10257
+Schema Status: {'Batch_ID': dtype('O'), 'Vendor_Name': dtype('O'), 'Product_Name': dtype('O'), 'Quantity': dtype('float64'), 'Unit': dtype('O'), 'Cost_Per_KG': dtype('float64'), 'Defect_Rate_Pct': dtype('float64'), 'Procurement_Date': dtype('O')}
+Missing Values Found: 205
+Duplicate Records: 0

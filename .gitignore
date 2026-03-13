@@ -1,0 +1,15 @@
+# Raw and processed datasets
+01_raw_data/
+03_processed_data/
+
+# CSV exports
+*.csv
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,14 @@
+HONEYRICH DATA STANDARDIZATION REPORT
+
+Dataset Records: 10257
+
+Activities Performed
+
+• Standardized column naming conventions.
+• Cleaned categorical variables including vendor_name, product_name, and unit.
+• Converted text attributes to lowercase format.
+• Removed naming inconsistencies and formatting irregularities.
+
+Result
+
+Dataset ready for metric normalization and statistical preprocessing.
