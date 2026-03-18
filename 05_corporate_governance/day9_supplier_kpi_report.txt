@@ -1,0 +1,6 @@
+HONEYRICH LOGISTICS ANALYTICS
+SUPPLIER KPI ANALYSIS REPORT – DAY 9
+
+Computed supplier-level KPIs including procurement volume, cost, defect rate, and contribution percentage. Identified top-performing and low-quality vendors and generated visualizations for supplier performance evaluation.
+
+Result: Established a KPI framework for vendor performance analysis.
