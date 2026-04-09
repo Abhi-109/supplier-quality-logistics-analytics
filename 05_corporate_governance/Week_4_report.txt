@@ -1,0 +1,31 @@
+WEEK 4 REPORT – SUPPLIER PERFORMANCE & SEGMENTATION
+Objective
+
+To evaluate supplier quality, cost efficiency, and performance using statistical analysis, correlation study, and segmentation techniques.
+
+Activities Performed
+
+- Analyzed vendor defect rates to identify high-risk and low-risk suppliers.
+- Studied the relationship between procurement cost and defect rate using correlation analysis.
+- omputed supplier efficiency metrics to evaluate cost-effectiveness.
+- Segmented suppliers into performance categories based on cost and defect benchmarks.
+- Generated visualizations including scatter plots, distributions, heatmaps, and boxplots for performance interpretation.
+
+Key Findings
+
+- Defect rates across suppliers were consistent, with minor variation between vendors.
+- Correlation between cost and defect rate was negligible, indicating that higher cost does not guarantee better quality.
+- Efficiency analysis highlighted a small group of highly optimized suppliers delivering better value.
+- Supplier segmentation classified vendors into five categories: Top Performers, High Risk, Premium Suppliers, Average Performers, and Low Cost Risky.
+- A balanced distribution of suppliers across segments indicates diversified supplier behavior.
+
+Outcome
+
+- Identified high-risk vendors requiring quality improvement.
+- Recognized top-performing suppliers suitable for long-term partnerships.
+- Established a structured supplier evaluation model based on cost, defect rate, and efficiency.
+- Prepared dataset and insights for advanced logistics and decision-making analysis in subsequent stages.
+
+Conclusion
+
+Week 4 successfully transformed raw supplier data into actionable insights through statistical evaluation and segmentation. The analysis provides a strong foundation for supplier optimization and strategic decision-making in logistics operations.
