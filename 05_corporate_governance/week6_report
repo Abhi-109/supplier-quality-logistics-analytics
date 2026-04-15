@@ -1,0 +1,43 @@
+WEEK 6 REPORT – SPOILAGE ANALYSIS, PERFORMANCE SCORING & DASHBOARD PREPARATION
+Objective
+
+To evaluate supplier performance by incorporating spoilage impact, develop a comprehensive performance scoring model, and prepare structured datasets for dashboard visualization and decision-making.
+
+Activities Performed
+Day 19 – Spoilage Impact Analysis
+Derived spoilage metrics using defect rates and procurement quantities
+Estimated financial loss due to spoilage for each supplier
+Analyzed relationship between cost, defect rate, and spoilage
+Identified high-loss suppliers contributing significantly to spoilage cost
+Generated distribution and correlation visualizations for spoilage patterns
+
+Day 20 – Supplier Performance Evaluation
+Developed a composite performance scoring model combining reliability, risk, and spoilage factors
+Ranked suppliers based on performance scores to identify top and low performers
+Categorized suppliers into performance segments such as Top Performer, Stable Supplier, Needs Improvement, and Critical Risk
+Designed a business decision framework for procurement actions
+Generated KPI summary including total suppliers, top performers, and critical suppliers
+
+Day 21 – Power BI Data Preparation
+Structured final dataset for dashboard consumption by selecting key analytical features
+Created multiple supporting datasets including KPI cards, category distribution, and top/bottom vendor lists
+Prepared scatter plot and decision summary datasets for visualization
+Ensured data was clean, consistent, and ready for direct integration into Power BI
+
+Day 22 – Final Validation & Dashboard Logic
+Validated dataset for missing values, duplicates, and data type consistency
+Performed sanity checks on key metrics such as cost, defect rate, and performance score
+Verified KPI calculations and supplier categorizations
+Finalized a dashboard structure including KPI cards, category distributions, and performance visualizations
+Generated a validated dataset for final dashboard implementation
+
+Results
+Spoilage impact was successfully quantified and linked to supplier performance
+A multi-factor performance scoring system was developed for supplier evaluation
+High-risk and low-performing suppliers were clearly identified
+Clean and structured datasets were prepared for Power BI dashboard development
+Data validation ensured reliability and accuracy of analytical outputs
+
+Conclusion
+
+Week 6 transformed the project from analytical exploration to decision-driven evaluation by integrating spoilage impact into supplier performance assessment. The development of a comprehensive scoring model and dashboard-ready datasets enabled clear identification of supplier risks and optimization opportunities, forming a strong foundation for business intelligence reporting.
