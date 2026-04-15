@@ -1,0 +1,33 @@
+WEEK 5 REPORT – MASTER DATASET & SUPPLIER EVALUATION
+Objective
+
+To consolidate processed supply data into a unified master dataset and develop structured metrics for evaluating supplier reliability, cost efficiency, and logistics performance.
+
+Activities Performed
+Day 16 – Master Dataset Creation
+Integrated cleaned procurement data into a centralized dataset for analysis
+Engineered key features including total cost, defect impact, and normalized cost and defect scores
+Applied standardization techniques to evaluate supplier performance consistency
+Developed an initial composite scoring model based on cost and defect metrics
+
+Day 17 – Supplier Reliability & Risk Scoring
+Designed reliability scoring using defect rate, cost efficiency, and stability indicators
+Computed risk scores based on supplier variability and defect contribution
+Categorized suppliers into reliability and risk segments for evaluation
+Enhanced dataset with structured performance indicators for decision analysis
+
+Day 18 – Logistics Efficiency & Final Insights
+Evaluated supplier efficiency using cost, defect rate, and overall procurement impact
+Ranked suppliers based on performance metrics to identify top and low performers
+Identified high-risk and cost-inefficient suppliers for operational review
+Generated key performance indicators and summary insights for business understanding
+
+Results
+A comprehensive master dataset was successfully created for supplier-level analysis
+Supplier reliability and risk scoring models were implemented for structured evaluation
+Key inefficiencies and high-risk suppliers were identified using performance metrics
+The dataset was prepared for advanced analytics, decision modeling, and dashboard integration
+
+Conclusion
+
+Week 5 established the foundation for supplier performance analytics by transforming raw procurement data into a structured evaluation system. The developed scoring models enabled systematic identification of reliable and high-risk vendors, supporting data-driven decision-making in logistics operations.
