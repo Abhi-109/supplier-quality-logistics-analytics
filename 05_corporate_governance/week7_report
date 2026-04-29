@@ -1,0 +1,11 @@
+WEEK 7 REPORT – Demand, Revenue & Consistency Analysis
+
+During Week 7, the analysis progressed from performance evaluation to identifying business-critical vendors using demand, revenue, and supply consistency metrics.
+
+On Day 23, demand analysis was performed using total quantity as a proxy. Vendors were categorized into high, medium, and low demand groups. The analysis identified 3 high-demand vendors and 2 vendors with both high demand and high risk, indicating potential operational vulnerability. Demand distribution showed that the majority of vendors fall under the low-demand category.
+
+On Day 24, revenue estimation and contribution analysis were conducted. Vendors were segmented based on revenue generation, and 4 vendors were identified as high revenue but high risk, highlighting financially important yet unstable suppliers. Revenue distribution indicated uneven contribution across vendors.
+
+On Day 25, supply consistency and dependency analysis were performed. A consistency score was calculated to evaluate supply stability. The results showed 4 vendors with high demand but low consistency, and 3 critical dependency vendors, indicating reliance on unstable suppliers. Additionally, top risk vendors were identified using a combined risk metric.
+
+Overall, Week 7 provided key business insights by linking demand, revenue, and consistency, enabling identification of high-impact and high-risk vendors for better decision-making in supply chain management.
